@@ -13,7 +13,7 @@ Esse reposiório tem como objetivo acompanhar meu processo de aprendizado da lin
 
 ## Curso
 ### Básico
-The main course for the basic sintax and concepts is the free course made by Loiane Groner.
+O curso principal para o estudo da sintaxe básica e conceitos foi o programa feito pela Loiane Groner, disponível nos links abaixo:
 
 * [Site principal](https://loiane.training/)
 * [Playlist do YouTube](https://www.youtube.com/playlist?list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r)
