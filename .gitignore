@@ -1,3 +1,4 @@
 # ignored files
 *.class
 bin
+.vscode
