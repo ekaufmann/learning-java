@@ -1,3 +1,7 @@
+/*
+ * 03 - Read two numbers and sum them.
+ */
+
 import java.util.Scanner;
 
 public class Sum {

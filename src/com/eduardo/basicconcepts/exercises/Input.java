@@ -1,4 +1,7 @@
-// read a number and print it
+/*
+ * 02 - Read a number and print it.
+ */
+
 import java.util.Scanner;
 
 public class Input {
