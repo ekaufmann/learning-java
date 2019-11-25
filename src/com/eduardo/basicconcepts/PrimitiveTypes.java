@@ -9,7 +9,7 @@ public class PrimitiveTypes {
         int num3 = 5; // 32 bits -- mais usado
         long num4 = 5l; // 64 bits -- mais usado
 
-        int val1 = 2147483647; // valor máximo de int positivo
+        int val1 = 2_147_483_647; // valor máximo de int positivo
         int val2 = 1;
 
         System.out.println(val1 + val2);
@@ -38,7 +38,7 @@ public class PrimitiveTypes {
         int dec = 26;
         int hex = 0x1a;
         int oct = 032;
-        int bin = 0b11010;
+        int bin = 0b1_1010;
 
         System.out.println(dec);
         System.out.println(hex);
