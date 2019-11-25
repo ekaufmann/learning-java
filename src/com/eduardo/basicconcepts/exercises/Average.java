@@ -2,6 +2,8 @@
  * 04 - Read four grades and find the average.
  */
 
+package com.eduardo.basicconcepts.exercises;
+
 import java.util.Scanner;
 
 public class Average {

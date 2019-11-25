@@ -2,6 +2,8 @@
  * 06 - Circle area.
  */
 
+package com.eduardo.basicconcepts.exercises;
+
 import java.util.Scanner;
 
 public class Circle {

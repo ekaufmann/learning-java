@@ -1,3 +1,5 @@
+package com.eduardo.basicconcepts;
+
 import java.util.Scanner;
 
 public class LerDados {

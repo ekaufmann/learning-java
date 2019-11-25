@@ -2,6 +2,8 @@
  * 03 - Read two numbers and sum them.
  */
 
+package com.eduardo.basicconcepts.exercises;
+
 import java.util.Scanner;
 
 public class Sum {

@@ -1,3 +1,5 @@
+package com.eduardo.basicconcepts;
+
 public class ArithmeticOp {
 
     public static void main(String[] args) {

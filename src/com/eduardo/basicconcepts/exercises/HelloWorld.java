@@ -2,6 +2,8 @@
  * 01 - HelloWorld again!!!
  */
 
+package com.eduardo.basicconcepts.exercises;
+
 public class HelloWorld {
 
     public static void main(String[] args) {

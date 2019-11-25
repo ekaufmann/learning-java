@@ -2,6 +2,8 @@
  * 02 - Read a number and print it.
  */
 
+package com.eduardo.basicconcepts.exercises;
+
 import java.util.Scanner;
 
 public class Input {
