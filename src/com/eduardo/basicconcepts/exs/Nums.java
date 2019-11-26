@@ -6,7 +6,7 @@
  *      3 -> (c*c*c);
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 

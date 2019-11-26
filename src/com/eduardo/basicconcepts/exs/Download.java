@@ -2,7 +2,7 @@
  * 14 - Leia o tamanho de um arquivo(MB) e a velocidade de internet(Mbps) e informe o tempo de download em minutos.
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 

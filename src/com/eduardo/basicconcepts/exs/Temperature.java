@@ -2,7 +2,7 @@
  * 09 - Convert the temperature to Celsius from Farenheit (C = (5 * (F - 32) / 9)).
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 

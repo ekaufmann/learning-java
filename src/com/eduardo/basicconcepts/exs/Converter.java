@@ -2,7 +2,7 @@
  * 05 - Convert meters to centimeters.
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 

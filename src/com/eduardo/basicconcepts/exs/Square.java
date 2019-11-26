@@ -2,7 +2,7 @@
  * 07 - Find the square area from a given side and return the double of it.
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 

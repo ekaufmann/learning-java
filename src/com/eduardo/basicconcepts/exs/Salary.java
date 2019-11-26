@@ -8,7 +8,7 @@
  *      obs: tabela de descontos -> Bruto - IR(11%) -> R$ - INSS(8%) -> R$ - Sindicato(5%) -> Líquido
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 

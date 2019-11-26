@@ -2,7 +2,7 @@
  * 01 - HelloWorld again!!!
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 public class HelloWorld {
 

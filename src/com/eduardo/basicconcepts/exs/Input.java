@@ -2,7 +2,7 @@
  * 02 - Read a number and print it.
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 

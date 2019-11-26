@@ -2,7 +2,7 @@
  * 12 - From a person's height input, calculate the BMI (IMC) using (72.7 * height) - 58.
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 

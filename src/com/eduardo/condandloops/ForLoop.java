@@ -17,9 +17,9 @@ public class ForLoop {
         }
 
         int contador = 0;
-        for ( ; contador < 5 ; ) {
+        for ( ; contador < 5; contador += 2) {
             System.out.println("Contador = " + contador);
-            contador += 2;
+            // contador += 2;
         }
 
         int soma = 0;

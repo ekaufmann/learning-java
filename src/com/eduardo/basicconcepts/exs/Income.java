@@ -2,7 +2,7 @@
  * 08 - Calculate your salary giving how much you earn per hour and the amount of hours worked in the month.
  */
 
-package com.eduardo.basicconcepts.exercises;
+package com.eduardo.basicconcepts.exs;
 
 import java.util.Scanner;
 
