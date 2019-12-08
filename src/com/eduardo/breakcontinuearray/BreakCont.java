@@ -1,8 +1,8 @@
-package com.eduardo.breakcontinue;
+package com.eduardo.breakcontinuearray;
 
 import java.util.Scanner;
 
-public class breakCont {
+public class BreakCont {
 	
 	public static void main (String[] args) {
 		
@@ -13,8 +13,13 @@ public class breakCont {
 		
 		for (int i = num; i <= max; i++) {
 			if (i % 7 == 0) {
-				System.out.println("Valor = " + i);
+				System.out.println("Valor de parada = " + i);
 				break;
+			}
+			
+			if (i % 2 == 0) {
+				System.out.println("Valor de continuação = " + i);
+				continue;
 			}
 		}
 		
