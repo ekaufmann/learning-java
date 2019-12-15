@@ -13,12 +13,15 @@ public class TesteCarro {
 		
 		System.out.println(van.marca);
 		System.out.println(van.modelo);
+		van.exibirAutonomia();
 		
+		/*
 		Carro fusca = new Carro();
 		fusca.marca = "Volkswagen";
 		fusca.modelo = "Fusca";
 		fusca.numPassageiros = 4;
 		fusca.capCombustivel = 30;
 		fusca.consumoCombustivel = 0.15;
+		*/
 	}
 }
