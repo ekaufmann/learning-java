@@ -15,6 +15,11 @@ public class TesteCarro {
 		System.out.println(van.modelo);
 		van.exibirAutonomia();
 		
+		double autonomia = van.obterAutonomia();
+		
+		System.out.println(autonomia);
+		System.out.println(van.obterAutonomia());
+		
 		/*
 		Carro fusca = new Carro();
 		fusca.marca = "Volkswagen";
