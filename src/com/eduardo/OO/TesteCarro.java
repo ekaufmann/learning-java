@@ -20,6 +20,9 @@ public class TesteCarro {
 		System.out.println(autonomia);
 		System.out.println(van.obterAutonomia());
 		
+		double qtdCombustivel10 = van.calcularCombustivel(10), qtdCombustivel15 = van.calcularCombustivel(15);
+		
+		System.out.println("São necessários " + qtdCombustivel10 + "l para 10km e " + qtdCombustivel15 + "l para 15km!");
 		/*
 		Carro fusca = new Carro();
 		fusca.marca = "Volkswagen";
