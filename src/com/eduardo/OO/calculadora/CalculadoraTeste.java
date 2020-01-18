@@ -21,7 +21,7 @@ public class CalculadoraTeste {
 			System.out.print("Digite o segundo número: ");
 			num2 = input.nextDouble();
 			
-			selecionarOperador(input, calcula, operator, num1, num2);
+			operator = selecionarOperador(input, calcula, operator, num1, num2);
 			System.out.print("\n      " + num1 + " " + operator + " " + num2 + " = ");
 			System.out.println(calcula.getResultado() + "\n");
 			
@@ -48,10 +48,11 @@ public class CalculadoraTeste {
 		return num;
 	}
 	
-	public static void selecionarOperador(Scanner input, Calculadora calcula, char operator, double num1, double num2) {
+	public static char selecionarOperador(Scanner input, Calculadora calcula, char operator, double num1, double num2) {
 		boolean aux = true;
 		
-		System.out.print("\nDigite a operação a ser realizada: ");
+		System.out.println("\nDigite a operação a ser realizada: ");
+		System.out.println("Soma -> +;\nSubtração -> -;\nMultiplicação -> *;\nDivisão -> /;\nPotenciação -> p.");
 		operator = input.next().charAt(0);
 		
 		while(aux) {
@@ -79,6 +80,7 @@ public class CalculadoraTeste {
 					aux = true;
 			}
 		}
+		return operator;
 	}
 	
 	public static boolean finalizar(Scanner input, String acaba) {
